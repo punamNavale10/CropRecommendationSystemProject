@@ -29,6 +29,6 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 <br>
 
-#Model with higher accuracy
+# Model with higher accuracy
 <br>
 Random Forest classifier
