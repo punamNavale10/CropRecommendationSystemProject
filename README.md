@@ -7,10 +7,15 @@ Overall, this Flask application provides a user-friendly interface for farmers o
 
 
 #ML Model
+<br>
 Libraries used :
+<br>
 import pandas as pd
+<br>
 import numpy as np
+<br>
 import matplotlib.pyplot as plt
+<br>
 import seaborn as sns
 from sklearn.metrics import classification_report
 from sklearn import metrics
